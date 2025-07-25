@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* navbar styles */
+
+.navbar {
+  height: 50px;
+  background-color: #e35c20;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+  margin-left: 70px;
+}
+
+.icon {
+  color: white;
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+.brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-right .menu-icon {
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+}
+
+.menu-icon{
+    margin-right: 80px;
+}
