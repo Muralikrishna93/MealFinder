@@ -132,6 +132,29 @@ body {
   text-transform: uppercase;
 }
 
+/* 
+Baingan bhartha section styles */
+
+.bar {
+  background-color: #e65a1e;
+  color: white;
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.bar i {
+  margin-right: 8px;
+}
+
+.bar .arrow {
+  margin: 0 8px;
+}
+
 
 
 /* category section styles */
